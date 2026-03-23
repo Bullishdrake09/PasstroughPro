@@ -1,6 +1,6 @@
 # PassthroughPro
 
-Switch an NVIDIA GTX 1070 between your host OS and a QEMU/KVM virtual machine — with a polished GUI and full CLI support.
+Switch a video card between your host OS and a QEMU/KVM virtual machine — with a polished GUI and full CLI support.
 
 ---
 
