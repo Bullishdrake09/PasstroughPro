@@ -65,7 +65,7 @@ GRUB_CMDLINE_LINUX="... intel_iommu=on iommu=pt vfio-pci.ids=10de:1b81,10de:10f0
 ```
 
 Replace the IDs with your actual GPU device IDs (visible in `passthroughpro devices`).
-
+Replace with amd_iommu=on if your CPU is an amd CPU
 Then:
 ```bash
 sudo update-grub
